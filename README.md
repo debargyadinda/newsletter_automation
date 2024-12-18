@@ -34,8 +34,10 @@ To use Gmail for sending emails, you need to enable **App Passwords**:
 Create a CSV file named `recipients.csv` with the following format:
 ```csv
 Email,Location
-user1@example.com,New York
-user2@example.com,Los Angeles
+user1@example.com,India
+user2@example.com,Japan
+
+---
 
 ### 3. Run the Script
 Place the script and recipients.csv file in the same directory.
