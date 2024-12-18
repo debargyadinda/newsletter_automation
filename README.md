@@ -39,9 +39,11 @@ user2@example.com,Japan
 
 ---
 
-### 3. Run the Script
-Place the script and recipients.csv file in the same directory.
-Update the script with your email credentials.
+## Run the Script
+
+1. Place the script and `recipients.csv` file in the same directory.
+2. Update the script with your email credentials.
+
 
 run the script
 python3 newsletter_automation.py
