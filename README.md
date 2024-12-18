@@ -37,12 +37,19 @@ Email,Location
 user1@example.com,India
 user2@example.com,Japan
 
+
 ---
 
 ## Run the Script
 
 1. Place the script and `recipients.csv` file in the same directory.
 2. Update the script with your email credentials.
+
+### Run the file
+
+```bash
+python3 newsletter_automation.py
+
 
 
 run the script
