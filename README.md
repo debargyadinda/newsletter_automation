@@ -32,7 +32,7 @@ To use Gmail for sending emails, you need to enable **App Passwords**:
 
 ### 2. Prepare the CSV File
 Create a CSV file named `recipients.csv` with the following format:
-```csv
+
 Email,Location
 user1@example.com,India
 user2@example.com,Japan
